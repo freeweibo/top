@@ -1,8 +1,13 @@
---2013-05-16 07:25:01--  https://freeweibo.com/top_messages
+--2013-05-16 07:26:22--  https://freeweibo.com/top_messages
 Resolving freeweibo.com (freeweibo.com)... 54.235.205.92
 Connecting to freeweibo.com (freeweibo.com)|54.235.205.92|:443... connected.
 WARNING: no certificate subject alternative name matches
 	requested host name `freeweibo.com'.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2013-05-16 07:25:02 ERROR 500: Internal Server Error.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: `top_messages'
+
+     0K .......... .......... ......                            115M=0s
+
+2013-05-16 07:26:22 (115 MB/s) - `top_messages' saved [27516]
 
