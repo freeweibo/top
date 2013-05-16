@@ -1,0 +1,6 @@
+--2013-05-16 07:22:54--  https://en.greatfire.org/top_messages
+Resolving en.greatfire.org (en.greatfire.org)... 54.235.205.92
+Connecting to en.greatfire.org (en.greatfire.org)|54.235.205.92|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name `en.greatfire.org'.
+To connect to en.greatfire.org insecurely, use `--no-check-certificate'.
