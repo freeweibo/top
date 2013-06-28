@@ -1,1 +1,2 @@
-Connection failed: SQLSTATE[08006] [7] FATAL:  remaining connection slots are reserved for non-replication superuser connections
+Connection failed: SQLSTATE[08006] [7] FATAL:  sorry, too many clients already
+FATAL:  sorry, too many clients already
